@@ -1,0 +1,7 @@
+dot@affe8df8eb20:~/monitoreo_recursos$ cat monitoring_log.txt
+Tiempo(s) %Total_CPU_Libre %Memoria_Libre %Disco_Libre
+60 100 75.71 954G
+120 100 75.63 954G
+180 100 75.60 954G
+240 100 75.60 954G
+300 100 75.57 954G
